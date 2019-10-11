@@ -1,5 +1,5 @@
 # Quantitative-Projects
-Python and STATA
+Python, Statistics, and Economics
 
 Welcome to my GitHub page!
 
